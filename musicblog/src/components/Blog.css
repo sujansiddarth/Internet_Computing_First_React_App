@@ -1,0 +1,14 @@
+.grid {
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    grid-gap: 1em;
+    align-items: center;
+  }
+  
+.top{
+    margin-top: 50px;
+}  
+
+.full-blog{
+    margin-top: 20px;
+}
